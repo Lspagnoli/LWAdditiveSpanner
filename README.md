@@ -23,3 +23,16 @@ In order to use and work on the spanner.py file, there are a few package depende
 
 For example, type in your console `pip install networkx`
 You will be able to check the status of these packages by typing `pip list` which will display the packages installed on your pyenv
+
+-------------------------------------------
+# Repository Navigation
+
+- `Pseudo.txt` includes notes on the pseudo code used as well as the algorithm provided. This is mostly an artifact from the prior project.
+
+- `LWSPaper.pdf` is the research paper describing LWA Spanners. It details the steps and the algorithm to create the spanner, as well as a proof for testing.
+
+- `AdditiveSpanner.html` is a simple visualization of the start and end png files.
+
+- `start.png` & `end.png` are graph visualizations produced by the main spanning file.
+
+- `spanner.py` is the main file, containing the spanner algorithm
