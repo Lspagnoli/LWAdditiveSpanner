@@ -1,4 +1,4 @@
-#Purpose
+# Purpose
 
 This repo serves as a continuation of the Light weight additive spanner project that was started during COSC480A in Fall of 2022. This can be found [here](https://github.com/retdude/SpannersDataVis).
 
