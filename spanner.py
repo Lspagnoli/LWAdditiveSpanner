@@ -96,7 +96,7 @@ def scaleGraph(G):
     n = G.number_of_nodes()
 
     for u,v,d in G.edges(data=True): #scaling
-        d['weight'] *= ((n/2) * (1/sum))
+        d['weight'] *= ((n/2) * (1/sum)) #n/2*weight of MST
 
     return(G)
 
